@@ -27,4 +27,5 @@ Google Fonts
 
 Font Awesome Icons (CDN)
 
-🚀 How to Use# udemy-clone
+🚀 How to View #udemy-clone
+ https://jegadesh2701.github.io/udemy-clone/
